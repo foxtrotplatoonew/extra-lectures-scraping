@@ -459,10 +459,10 @@ with open('movie_fixture.json', 'w') as json_file:
 ```
 
 - Things you need to use your fixture:
-  - [] Django project with an app `movies`
-  - [] pk needs to properly auto increment for your fixtures
-  - [] `fields` needs to contain all of the fields for your `model`(Movie)
-  - [] fixture needs to be a json object
+  - [ ] Django project with an app `movies`
+  - [ ] pk needs to properly auto increment for your fixtures
+  - [ ] `fields` needs to contain all of the fields for your `model`(Movie)
+  - [ ] fixture needs to be a json object
 
 Lets say you have a project `movies_db` with an app `movies` that contains `Movie` model.
 
