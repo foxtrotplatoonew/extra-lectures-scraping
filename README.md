@@ -31,8 +31,8 @@ At a basic level web scraping is a technique for collecting data from websites. 
 It usually involves using some tools that allow you to manipulate and transform `html documents`
 
 In `python` we will accomplish this with `requests` and `beautiful soup`:
-    - `requests` allow us to `GET` html documents
-    - `beautiful soup` allows us to `parse` html in python
+- `requests` allow us to `GET` html documents
+- `beautiful soup` allows us to `parse` html in python
 
 Together this provides us with a powerful way to collect data in which `requests` lets us grab large amounts of HTML, and `beautiful soup` helps filter down the HTML to our desired results
 
