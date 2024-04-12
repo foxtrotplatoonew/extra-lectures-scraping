@@ -1,12 +1,13 @@
 # Extra Lecture -- Intro to Web Scraping
 
 In this extra lecture, the goal is to introduce some libraries that can help with collecting and manipulating data for a project. By the end of this lecture we will:
-    - Use requests to get HTML documents from the web
-    - Use beautiful soup to parse HTML in python
-    - Use pandas to persist our scraped data in a dataframe and CSV
-    - Use Jupyter Notebook to interact with our dataframe and CSV data
-    - Build a Django Fixture with our scraped Data
-    - Load our fixture into a Django Postgres Database
+    
+- Use requests to get HTML documents from the web
+- Use beautiful soup to parse HTML in python
+- Use pandas to persist our scraped data in a dataframe and CSV
+- Use Jupyter Notebook to interact with our dataframe and CSV data
+- Build a Django Fixture with our scraped Data
+- Load our fixture into a Django Postgres Database
 
 
 The [exercise](#getting-started-with-requests-and-beautiful-soup-scraping-exercise-1) for getting started with beautiful soup and requests is meant to help you work through understanding how to use beautiful soup and requests together. When you feel comfortable that you can collect data you are interested in, try collecting some data YOU are interested in.
